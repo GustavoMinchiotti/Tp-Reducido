@@ -229,7 +229,7 @@ body {
 
 .heroPreForm {
   /* The image used */
-  background-image: url("/Assets/carpintero-trabajando.png");
+  background-image: url("/carpintero-trabajando.png");
   /* Add the blur effect */
   filter: blur(0.15px);
   /* Full height */
